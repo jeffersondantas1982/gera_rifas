@@ -1,7 +1,3 @@
-Com certeza! Para que o README no GitHub fique realmente elegante e atraente, vou usar a sintaxe Markdown de forma otimizada, incluindo títulos, listas, blocos de código e negritos para realçar as informações mais importantes.
-
-Aqui está a descrição estendida com formatações que você pode copiar e colar diretamente no seu arquivo README.md no GitHub:
-
 Gerador de Rifas e Capas 🎟️✨
 Visão Geral do Projeto
 Este projeto é uma ferramenta web prática e eficiente, concebida para simplificar e automatizar a criação de talões de rifa e suas capas correspondentes. A ideia nasceu da necessidade real de otimizar a organização de eventos beneficentes e campanhas de arrecadação de fundos, oferecendo uma solução intuitiva e acessível.
